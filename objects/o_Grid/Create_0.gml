@@ -15,6 +15,6 @@ bottom_y = y + total_height;
 
 animal_count = 3;
 selected_animal = 0;
-animals[0] = instance_create_layer(-100, -100, "Instances", o_Animal);
-animals[1] = instance_create_layer(-100, -100, "Instances", o_Animal);
-animals[2] = instance_create_layer(-100, -100, "Instances", o_Animal);
+//animals[0] = instance_create_layer(-100, -100, "Instances", o_Animal);
+//animals[1] = instance_create_layer(-100, -100, "Instances", o_Animal);
+//animals[2] = instance_create_layer(-100, -100, "Instances", o_Animal);

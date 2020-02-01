@@ -2,7 +2,7 @@
     "id": "ef589729-7c64-45e5-b9ff-27d0bf769544",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_Animal",
+    "name": "o_Animal_Frog",
     "eventList": [
         {
             "id": "9e58e2ba-db56-4189-9c4c-211ede7b7938",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "02bdc54f-d871-48be-9d75-1ecd2fdd85b2",
     "visible": true
 }

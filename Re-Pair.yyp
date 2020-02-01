@@ -266,7 +266,7 @@
             "Key": "ef589729-7c64-45e5-b9ff-27d0bf769544",
             "Value": {
                 "id": "051272d5-f2f4-4caf-b138-5ed0608eb16b",
-                "resourcePath": "objects\\o_Animal\\o_Animal.yy",
+                "resourcePath": "objects\\o_Animal_Frog\\o_Animal_Frog.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -290,7 +290,7 @@
             "Key": "f96bd5db-5448-4146-a05e-8ee720aa473f",
             "Value": {
                 "id": "4be1f767-63cc-445b-a296-7e0209983e6e",
-                "resourcePath": "rooms\\r_Gameplay\\r_Gameplay.yy",
+                "resourcePath": "rooms\\r_Level1\\r_Level1.yy",
                 "resourceType": "GMRoom"
             }
         },
