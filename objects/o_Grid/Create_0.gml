@@ -13,5 +13,5 @@ y = (room_height / 2) - (total_height / 2);
 right_x = x + total_width;
 bottom_y = y + total_height;
 
-animal_count = 3;
+animal_count = 2;
 selected_animal = 0;
