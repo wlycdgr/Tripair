@@ -17,7 +17,7 @@ with (grid) {
 		else {
 			animal.move_direction = UP;
 			animal.move_speed = SPEED_INCREMENT;
-			animal.sprite_index = spr_Frog_WalkUp;
+			animal.sprite_index = animal.sprite_walkUp;
 		}
 	}
 	
@@ -28,7 +28,7 @@ with (grid) {
 		else {
 			animal.move_direction = LEFT;
 			animal.move_speed = SPEED_INCREMENT;
-			animal.sprite_index = spr_Frog_WalkLeft;
+			animal.sprite_index = animal.sprite_walkLeft;
 		}
 	}
 	
@@ -39,7 +39,7 @@ with (grid) {
 		else {
 			animal.move_direction = DOWN;
 			animal.move_speed = SPEED_INCREMENT;
-			animal.sprite_index = spr_Frog_WalkDown;
+			animal.sprite_index = animal.sprite_walkDown;
 		}
 	}
 	
@@ -50,7 +50,7 @@ with (grid) {
 		else {
 			animal.move_direction = RIGHT;
 			animal.move_speed = SPEED_INCREMENT;
-			animal.sprite_index = spr_Frog_WalkRight;
+			animal.sprite_index = animal.sprite_walkRight;
 		}
 	}
 	

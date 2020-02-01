@@ -55,6 +55,22 @@
             }
         },
         {
+            "Key": "0c727110-6ae9-46e9-b7a2-2ad00589d3bb",
+            "Value": {
+                "id": "898c9e4f-79e2-4aa7-ae0c-9864c7026ea3",
+                "resourcePath": "sprites\\spr_Cat_Idle\\spr_Cat_Idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0fc60470-47d3-44a1-b194-58f1fe71412c",
+            "Value": {
+                "id": "b58386c6-243b-48b0-9a41-c4981af765ad",
+                "resourcePath": "views\\0fc60470-47d3-44a1-b194-58f1fe71412c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1ef220f4-c85e-43fb-960a-cfaa4df17eaf",
             "Value": {
                 "id": "73af9067-f7ea-4749-93d1-458e596aa983",
@@ -103,6 +119,14 @@
             }
         },
         {
+            "Key": "34b84d57-81e1-4b71-b517-eae820c3795e",
+            "Value": {
+                "id": "43a31cda-98f8-49d6-b053-bef1c414755c",
+                "resourcePath": "sprites\\spr_Cat_WalkRight\\spr_Cat_WalkRight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "35a10f6b-aea0-46f7-88bd-1014f3b1155b",
             "Value": {
                 "id": "478b8289-76a8-4be2-bd49-1459cfbaaef8",
@@ -140,6 +164,14 @@
                 "id": "86f43292-bbc4-4343-b6de-d02936bd7838",
                 "resourcePath": "fonts\\f_Menu\\f_Menu.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "4a352697-559f-40be-abb6-80152613aba2",
+            "Value": {
+                "id": "bc12e8fe-2e9e-4ad6-8315-b8891d2ebe7b",
+                "resourcePath": "sprites\\spr_Cat_WalkDown\\spr_Cat_WalkDown.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -212,6 +244,14 @@
                 "id": "8645d6d9-626b-42b6-9245-165e8974546c",
                 "resourcePath": "views\\6f4b94ed-748f-4bcd-8622-296c2a41beec.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6fc765e4-1985-4d86-8d69-ed78e63511af",
+            "Value": {
+                "id": "67179968-ef66-4b19-a1d1-4fa27bd37e90",
+                "resourcePath": "sprites\\spr_Cat_WalkLeft\\spr_Cat_WalkLeft.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -311,6 +351,14 @@
             }
         },
         {
+            "Key": "aeff7788-12b2-4a88-8635-e2edecf18eeb",
+            "Value": {
+                "id": "bc3a5eb1-07fc-496b-b036-a1c4cf3a0ec1",
+                "resourcePath": "objects\\o_Animal_Cat\\o_Animal_Cat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "af137699-b098-4986-a319-e5b39162520a",
             "Value": {
                 "id": "ebadeeab-23cf-443a-95e2-0b2d4427c5f0",
@@ -348,6 +396,14 @@
                 "id": "171adb0d-03ce-4c76-a9c1-c4d728f3af74",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d9319f1c-51c7-4375-a57f-35d6d7805f70",
+            "Value": {
+                "id": "7e9988db-d6ed-4820-8ccf-6181eac0a047",
+                "resourcePath": "sprites\\spr_Cat_WalkUp\\spr_Cat_WalkUp.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

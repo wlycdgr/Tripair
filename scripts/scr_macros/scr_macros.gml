@@ -1,4 +1,5 @@
-#macro FROG 1
+#macro FROG 0
+#macro CAT 1
 
 #macro NONE -1
 #macro RIGHT 0
