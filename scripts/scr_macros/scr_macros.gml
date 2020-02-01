@@ -1,5 +1,6 @@
 #macro FROG 1
 
+#macro NONE -1
 #macro RIGHT 0
 #macro DOWN 270
 #macro LEFT 180
