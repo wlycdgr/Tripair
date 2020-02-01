@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "b3cf97b3-0b84-41c9-ab3f-3ce67d20d1fa",
+            "Value": {
+                "id": "5f7f1e58-2c73-4799-a5da-c992ac389f67",
+                "resourcePath": "rooms\\r_Title\\r_Title.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c7d8ed45-bfbf-4923-afad-1d41c26400bb",
             "Value": {
                 "id": "77506d0a-6474-4ab1-9f59-57d64cf5c6a0",
@@ -287,11 +295,27 @@
             }
         },
         {
+            "Key": "f587199e-40b4-437e-ad2e-36f8bd1e82af",
+            "Value": {
+                "id": "c3fb7471-561c-47c4-98ac-9687009dd792",
+                "resourcePath": "sprites\\spr_title\\spr_title.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f96bd5db-5448-4146-a05e-8ee720aa473f",
             "Value": {
                 "id": "4be1f767-63cc-445b-a296-7e0209983e6e",
                 "resourcePath": "rooms\\r_Level1\\r_Level1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "febe0696-9982-4bf2-9da9-8e6ba7f3d118",
+            "Value": {
+                "id": "33b7d9fa-14b4-4559-b6bc-922428219f30",
+                "resourcePath": "objects\\o_TitleScreenController\\o_TitleScreenController.yy",
+                "resourceType": "GMObject"
             }
         },
         {
