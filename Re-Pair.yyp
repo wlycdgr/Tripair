@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "2cfb08cb-8aa8-43da-9ac6-76e2918f5eb3",
+            "Value": {
+                "id": "31c7af16-3e27-42e8-9bd0-2aa16556595f",
+                "resourcePath": "rooms\\remaderoom\\remaderoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2fd7e6d6-a231-4fa7-9fe5-9a4a94d1184e",
             "Value": {
                 "id": "9ddd7ee9-3932-4e40-ad76-ba56d484aca8",
